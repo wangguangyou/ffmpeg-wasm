@@ -4,8 +4,6 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { GeistProvider, CssBaseline } from '@geist-ui/core'
-// eslint-disable-next-line no-undef
-window.SharedArrayBuffer = window.ArrayBuffer;
 ReactDOM.render(
   <React.StrictMode>
     <GeistProvider>
