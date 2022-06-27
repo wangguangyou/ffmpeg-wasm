@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c54ad083a7b4c053364869b32ab68bd",
+    "revision": "a9d989201c051f7cab32de3218e990e3",
     "url": "/ffmpeg-wasm/index.html"
   },
   {
