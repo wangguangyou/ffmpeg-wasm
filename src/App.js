@@ -50,7 +50,7 @@ function App() {
   };
 
   const ffmpeg = createFFmpeg({
-    corePath: "/ffmpeg-wasm/ffmpeg-core.js",
+    corePath: "./ffmpeg-core.js",
     log: true,
   });
   const doTranscode = async () => {
