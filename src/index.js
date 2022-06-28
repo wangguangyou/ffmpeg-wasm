@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { GeistProvider, CssBaseline } from '@geist-ui/core'
+import VConsole from 'vconsole';
+ new VConsole();
 ReactDOM.render(
   <React.StrictMode>
     <GeistProvider>

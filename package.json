@@ -12,7 +12,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-fullscreen-loading": "^0.0.4",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "vconsole": "^3.14.6"
   },
   "scripts": {
     "start": "react-scripts start",
